@@ -1,5 +1,5 @@
-FROM ubuntu:trusty
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+ FROM ubuntu:trusty
+MAINTAINER Adaptiva <petedmarshall@hotmail.com>
 
 # Prevent dpkg errors
 ENV TERM=xterm-256color
